@@ -1,0 +1,52 @@
+.still
+{  
+    font-style: italic;
+}
+.blue
+{  
+    color: blue;
+}
+
+.purple
+{  
+    color : #764587;
+}
+
+
+*
+{
+
+    text-align:left;
+    color: #444;
+
+    
+}
+
+body
+
+{	
+	width:40%;
+	margin:auto;
+
+}
+
+p, li
+{	
+	font-size: 1.2em;
+
+}
+h1
+{	
+	font-size: 2.2em;
+
+}
+h2
+{	
+	font-size: 1.7em;
+
+}
+h3
+{	
+	font-size: 1.3em;
+
+}
